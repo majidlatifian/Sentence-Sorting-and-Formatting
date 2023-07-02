@@ -1,4 +1,4 @@
-# Sentence-Sorting-and-Formatting
+# Sentence Sorting and Formatting
 This code allows you to enter a set of sentences and sorts them based on the capitalized and lowercase letters in the second part of each sentence.
 
 ## Getting Started
@@ -13,7 +13,7 @@ python sentence_sorting.py
 
 ```
 4. Enter the total number of sentences you want to input when prompted.
-5. Enter each sentence in the format: *Part1.Part2.Part3*. Replace *Part1, Part2*, and *Part3* with the respective parts of the sentence.
+5. Enter each sentence in the format: **Part1.Part2.Part3**. Replace **Part1, Part2**, and **Part3** with the respective parts of the sentence.
 6. Once you have entered all the sentences, the program will sort and format them based on the capitalized and lowercase letters in the second part.
 7. The sorted sentences will be displayed in the terminal or command prompt.
 ## Example
